@@ -1,8 +1,7 @@
-Olá!! Sou o Rodrigo 😎
+Hello!! I'm Rodrigo 😎
 
 
-- 🌱 Estudando Desenvolvimento de sistemas
-- 👯 Desenvolvendo projeto para automação de vistoria com a porto seguro.
-- 📫 Contate-me: rodrigocamargo1234santos@gmail.com
-- 😄 Pronouns: ele/dele
-
+- 🌱 Studying Systems Development
+- 👯 Developing a survey automation project with Porto Seguro.
+- 📫 Contact me: rodrigocamargo1234santos@gmail.com
+- 😄 Pronouns: he/his
